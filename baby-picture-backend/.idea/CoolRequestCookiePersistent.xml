@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CoolRequestCookiePersistent">
+    <option name="cookies" value="[{&quot;domain&quot;:&quot;localhost:8080&quot;,&quot;infos&quot;:[{&quot;createTimeMillis&quot;:1767058150420,&quot;raw&quot;:&quot;JSESSIONID=078E3B93798C6C7A3D8F916D08F100BA; Path=/; HttpOnly&quot;,&quot;requestURL&quot;:&quot;http://localhost:8080/api/register&quot;}]},{&quot;domain&quot;:&quot;localhost:9003&quot;,&quot;infos&quot;:[{&quot;createTimeMillis&quot;:1767058926831,&quot;raw&quot;:&quot;JSESSIONID=CDC0689EA8354355A6AE7CF5785FB498; Path=/; HttpOnly&quot;,&quot;requestURL&quot;:&quot;http://localhost:9003/picture/test&quot;}]},{&quot;domain&quot;:&quot;10.57.126.219:9003&quot;,&quot;infos&quot;:[{&quot;createTimeMillis&quot;:1767058855586,&quot;raw&quot;:&quot;JSESSIONID=73FC3CF7294F96451BA6E3B472CF257D; Path=/; HttpOnly&quot;,&quot;requestURL&quot;:&quot;http://10.57.126.219:9003/api/test&quot;}]}]" />
+  </component>
+</project>
