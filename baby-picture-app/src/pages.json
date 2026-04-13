@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/media/media",
+      "style": {
+        "navigationBarTitleText": "照片视频"
+      }
+    },
+    {
+      "path": "pages/diary/diary",
+      "style": {
+        "navigationBarTitleText": "日记本"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "家庭记忆",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#667eea",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/media/media",
+        "text": "📷 照片"
+      },
+      {
+        "pagePath": "pages/diary/diary",
+        "text": "📔 日记"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "👤 我的"
+      }
+    ]
+  },
+  "uniIdRouter": {},
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+    }
+  }
+}
